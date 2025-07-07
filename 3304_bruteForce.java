@@ -14,7 +14,7 @@ Return the value of the kth character in word, after enough operations have been
 Note that the character 'z' can be changed to 'a' in the operation.
  */
 //***** BRUTE FORCE APPROACH *****
-class Solution {
+class Solution3304_BF {
     static char kthCharacter(int k) {
         String word = "a";
 
