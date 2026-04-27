@@ -1,7 +1,7 @@
-package Leetcode;
-
 //3307. Find the K-th Character in String Game II
 /*
+-- BACKTRACKING
+
 Alice and Bob are playing a game. Initially, 
 Alice has a string word = "a".
 You are given a positive integer k. You are also given 

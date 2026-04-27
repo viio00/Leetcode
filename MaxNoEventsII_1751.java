@@ -1,5 +1,3 @@
-package Leetcode;
-
 import java.util.Arrays;
 
 // 1751. Maximum Number of Events That Can Be Attended II
@@ -20,7 +18,7 @@ other ends on the same day.
 Return the maximum sum of values 
 that you can receive by attending events.
  */
-class Solution {
+class Solution1751 {
     int[][] dp;
 
     public int maxValue(int[][] events, int k) {

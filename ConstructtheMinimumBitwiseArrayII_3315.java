@@ -13,7 +13,7 @@ using ans[i] OR (ans[i] + 1):
 
 If it is not possible to find such a value for ans[i] that satisfies the condition, then set ans[i] = -1.
  */
-class Solution {
+class Solution3315 {
     public int[] minBitwiseArray(List<Integer> nums) {
         int[] ans = new int[nums.size()];
         

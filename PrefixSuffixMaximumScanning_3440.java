@@ -1,4 +1,3 @@
-package Leetcode;
 //3440. RESCHEDULE MEETINGS FOR MAXIMUM FREE TIME II
 
 /*

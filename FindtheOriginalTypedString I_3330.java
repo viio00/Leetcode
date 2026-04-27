@@ -1,4 +1,3 @@
-package Leetcode;
 //3330. Find the Original Typed String I
 /*
 Alice is attempting to type a specific string on her computer.
@@ -12,6 +11,7 @@ output displayed on Alice's screen.
 Return the total number of possible original strings 
 that Alice might have intended to type.
 
+-- Linear Scanning
  */
 class Solution3330_LinearScan {
     public int possibleStringCount(String word) {

@@ -1,4 +1,9 @@
-class Solution {
+/*
+712. Minimum ASCII Delete Sum for Two Strings
+
+Given two strings s1 and s2, return the lowest ASCII sum of deleted characters to make two strings equal. 
+*/
+class Solution712 {
     public int minimumDeleteSum(String s1, String s2) {
         int n = s1.length(), m = s2.length();
         int[][] dp = new int[n + 1][m + 1]; 

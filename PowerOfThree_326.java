@@ -1,5 +1,6 @@
-package Leetcode;
 /*
+326. Power of Three
+
 Given an integer n, return true if it is a power of three. 
 Otherwise, return false.
 

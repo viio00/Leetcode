@@ -1,4 +1,3 @@
-package Leetcode;
 /*1865. Finding Pairs With a Certain Sum -- This is not accepted since
 it exceeds the time limit w/ large inputs, althoiugh it is still valid.
 
@@ -24,7 +23,7 @@ replace that value w/ the sum
 3. count() -- count pairs from nums1 and nums2 with the total value indicated
  */
 
-class FindSumPairs2 {
+class FindSumPairs2_1865 {
     int[] nums1, nums2;
 
     public FindSumPairs2(int[] nums1, int[] nums2) {

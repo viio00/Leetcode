@@ -1,4 +1,3 @@
-package Leetcode;
 //3439. RESCHEDULE MEETINGS FOR MAXIMUM FREE TIME I
 
 /*You are given an integer eventTime denoting the duration of 

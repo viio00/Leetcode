@@ -1,5 +1,3 @@
-package Leetcode;
-
 import java.util.Arrays;
 import java.util.PriorityQueue;
 //1353. Maximum Number of Events That Can Be Attended

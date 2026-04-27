@@ -6,7 +6,7 @@ INTUITION:
     while the right boundary is i+k-1
 3. the difference among k students is nums[i+k-1] - nums[i] (ascending)
 */
-class Solution {
+class Solution1984 {
     public int minimumDifference(int[] nums, int k) {
         int len = nums.length;
         int ans = Integer.MAX_VALUE;
